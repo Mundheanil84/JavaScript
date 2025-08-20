@@ -91,11 +91,3 @@ This repository contains structured notes, code snippets, and examples covering 
 ## 📜 Resources
 - Chai aur code (YouTbue)
 
-
-
-
-
-
-
-## 📌 License
-This project is licensed under the **MIT License**.
